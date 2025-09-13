@@ -15,3 +15,6 @@ Gateway enforces per-tier rate limits and monthly quotas, logs usage, and produc
 ## Notes
 - Use Redis in production by registering `RedisRateCounterStore`.
 - Use token-based auth to identify customers in headers/claims.
+
+
+<img width="594" height="394" alt="image" src="https://github.com/user-attachments/assets/3c066f63-203d-4c38-9d52-96e5f158bf93" />

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMonetizationGateway.API", "APIMonetizationGateway\APIMonetizationGateway.API.csproj", "{7046EB3B-BAE9-496F-83FA-E1B5DD8CBAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMonetizationGateway.Test", "APIMonetizationGateway.Test\APIMonetizationGateway.Test.csproj", "{193FCFC4-4BB6-4175-9A7A-D4A70E7E2067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7046EB3B-BAE9-496F-83FA-E1B5DD8CBAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7046EB3B-BAE9-496F-83FA-E1B5DD8CBAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7046EB3B-BAE9-496F-83FA-E1B5DD8CBAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7046EB3B-BAE9-496F-83FA-E1B5DD8CBAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193FCFC4-4BB6-4175-9A7A-D4A70E7E2067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193FCFC4-4BB6-4175-9A7A-D4A70E7E2067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193FCFC4-4BB6-4175-9A7A-D4A70E7E2067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193FCFC4-4BB6-4175-9A7A-D4A70E7E2067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFA1B8FD-4024-4F7E-A05D-A9E375C57CEC}
+	EndGlobalSection
+EndGlobal
